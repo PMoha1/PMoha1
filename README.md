@@ -25,20 +25,20 @@
 - 🌱 **Learning & Exploring:** Advanced Evasion Techniques, Network Spoofing, and Red Teaming.
 - 💻 **Platforms:** Linux (Arch), Termux, Windows.
 - 💬 **Ask me about:** Python, Bash scripting, `iptables` routing, MAC Randomization, and bypassing network restrictions.
+- ⚡ **Fun fact:** I build tools that make devices completely invisible on local networks! 👻
 - 🔌 **Embedded Systems & IoT:** Advanced programming and manipulation of microcontrollers (ESP32, ESP8266, ESP-01, BW16, Arduino, NRF, Raspberry Pi).
 - 📱 **Application Architecture:** Engineering and building robust, native applications for Linux environments and cross-platform mobile ecosystems.
 - 🔧 **Hardware Reverse Engineering:** Deep expertise in circuit analysis, component-level maintenance, and reverse engineering of complex electronics.
-- ⚡ **Fun fact:** I build tools that make devices completely invisible on local networks! 👻
 
 ---
 
 - 🔭 **أعمل حالياً على:** هندسة مشاريع التخفي وتغيير البصمة وتجاوز سيرفرات الشبكات مثل (Reborn-Pro) و (Switch-Scot).
 - 💻 **البيئات المفضلة:** أنظمة لينكس (Arch)، تيرمكس (Termux)، وويندوز.
 - 💬 **اسألني عن:** البرمجة بلغة بايثون وباش، بناء الشبكات المخفية، التلاعب بعناوين MAC، وقواعد التوجيه `iptables`.
+- ⚡ **حقيقة ممتعة:** أقوم ببرمجة أدوات تجعل الأجهزة عبارة عن أشباح لا يمكن لأصحاب الشبكات تعقبها! 👻
 - 🔌 **هندسة العتاد والأنظمة المدمجة:** احتراف البرمجة والتعامل العميق مع المتحكمات الدقيقة (ESP32, ESP8266, ESP-01, BW16, Arduino, NRF, Raspberry Pi).
 - 📱 **هندسة التطبيقات:** بناء وتطوير تطبيقات احترافية متكاملة ومتقدمة لأنظمة لينكس (Linux) وتطبيقات الجوال بمختلف منصاتها.
 - 🔧 **الهندسة العكسية (Hardware):** خبرة عميقة في التحليل العتادي، تفكيك الدوائر، والهندسة العكسية وصيانة أعقد القطع الإلكترونية والكهربائية.
-- ⚡ **حقيقة ممتعة:** أقوم ببرمجة أدوات تجعل الأجهزة عبارة عن أشباح لا يمكن لأصحاب الشبكات تعقبها! 👻
 
 </div>
 
