@@ -25,6 +25,9 @@
 - 🌱 **Learning & Exploring:** Advanced Evasion Techniques, Network Spoofing, and Red Teaming.
 - 💻 **Platforms:** Linux (Arch), Termux, Windows.
 - 💬 **Ask me about:** Python, Bash scripting, `iptables` routing, MAC Randomization, and bypassing network restrictions.
+- 🔌 **Hardware & IoT:** Expert in programming, reverse-engineering, and maintaining ESP32, ESP8266, ESP-01, BW16, Arduino, Raspberry Pi, NRF, and various electronic modules.
+- 📱 **Software Development:** Professional in building native Linux applications and all types of mobile applications.
+- 🔧 **Electronics Engineering:** Expert in electronics maintenance, hardware reverse engineering, and low-level programming.
 - ⚡ **Fun fact:** I build tools that make devices completely invisible on local networks! 👻
 
 ---
@@ -32,6 +35,9 @@
 - 🔭 **أعمل حالياً على:** هندسة مشاريع التخفي وتغيير البصمة وتجاوز سيرفرات الشبكات مثل (Reborn-Pro) و (Switch-Scot).
 - 💻 **البيئات المفضلة:** أنظمة لينكس (Arch)، تيرمكس (Termux)، وويندوز.
 - 💬 **اسألني عن:** البرمجة بلغة بايثون وباش، بناء الشبكات المخفية، التلاعب بعناوين MAC، وقواعد التوجيه `iptables`.
+- 🔌 **الأنظمة المدمجة وإنترنت الأشياء (IoT):** خبير في برمجة قطع ESP32, ESP8266, ESP-01, BW16، والأردوينو، والـ Raspberry Pi، و NRF، وغيرها من القطع الدقيقة.
+- 📱 **تطوير التطبيقات:** محترف في هندسة وإنشاء تطبيقات أنظمة لينكس (Linux) وتطبيقات الجوال بجميع أنواعها.
+- 🔧 **الهندسة العكسية والصيانة:** محترف في صيانة وبرمجة وهندسة عكسية لأغلب القطع الكهربائية والإلكترونية.
 - ⚡ **حقيقة ممتعة:** أقوم ببرمجة أدوات تجعل الأجهزة عبارة عن أشباح لا يمكن لأصحاب الشبكات تعقبها! 👻
 
 </div>
@@ -42,7 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,arch,kali,windows,android,github,git,vscode,md&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,flutter,dart,linux,arch,kali,windows,android,arduino,raspberrypi,github,git,vscode,md&theme=dark" />
   </a>
 </p>
 
