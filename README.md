@@ -7,10 +7,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Network+Evasion+%26+Stealth;Python+%26+Bash+Developer;Red+Team+%26+Pentesting" alt="Typing SVG" />
       </a>
       <br><br>
-      
-      <a href="https://youtube.com/@PMoha1" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Channel" />
-      </a>
+      <a href="https://youtube.com/@PMoha1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
       &nbsp;
       <img src="https://komarev.com/ghpvc/?username=PMoha1&label=Profile%20Views&color=0e75b6&style=flat" alt="PMoha1" />
     </td>
